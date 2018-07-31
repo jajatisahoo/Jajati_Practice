@@ -5,7 +5,7 @@ import org.testng.annotations.Test;
 
 import java.io.File;
 import java.io.IOException;
-public class ObjectMapperDemoTest {
+   public class ObjectMapperDemoTest {
     @Test
     public void testReadJsonWithObjectMapper() throws Exception {
     	
