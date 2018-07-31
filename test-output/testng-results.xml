@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="1623" started-at="2018-07-31T17:27:58Z" finished-at="2018-07-31T17:28:00Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="1623" started-at="2018-07-31T17:27:58Z" finished-at="2018-07-31T17:28:00Z">
+      <class name="com.json.jackson.ObjectMapperDemoTest">
+        <test-method status="PASS" signature="testReadJsonWithObjectMapper()[pri:0, instance:com.json.jackson.ObjectMapperDemoTest@2f32ff]" name="testReadJsonWithObjectMapper" duration-ms="1558" started-at="2018-07-31T22:57:58Z" finished-at="2018-07-31T22:58:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testReadJsonWithObjectMapper -->
+      </class> <!-- com.json.jackson.ObjectMapperDemoTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
